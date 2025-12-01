@@ -86,10 +86,10 @@ La lista de comprobación para esta tarea, se encuentra en el archivo `Tareas - 
 
 La carpeta principal contiene los siguientes archivos y directorios:
 
-| Archivo/Carpeta                                    | Contenido |
-|:---------------------------------------------------| :--- |
-| `README.md`                                        | Este documento de información consolidada. |
-| [Tareas - Contenido.xlsx](Tareas - Contenido.xlsx) | Archivo central que contiene todos los resultados de la ejecución de pruebas. Pruebas teóricas (Tarea 1), Mapa Mental (Tarea 2), Listas de Comprobación (Tarea 2 y 4) y Casos de Prueba (Tarea 2 y 3). |
-| `/imagenes`                                        | Contiene las capturas de pantalla relacionadas con las pruebas (si aplica). | — |
-| `/requisitos`                                      | Contiene la documentación de requisitos de las aplicaciones probadas. | — |
-| `/mapa_mental`                                     | Contiene una imagen del Mapa Mental de la función "Hacer pedido" de la Web. | — |
+| Archivo/Carpeta                                  | Contenido |
+|:-------------------------------------------------| :--- |
+| `README.md`                                      | Este documento de información consolidada. |
+| [Tareas - Contenido.xlsx]                        | Archivo central que contiene todos los resultados de la ejecución de pruebas. Pruebas teóricas (Tarea 1), Mapa Mental (Tarea 2), Listas de Comprobación (Tarea 2 y 4) y Casos de Prueba (Tarea 2 y 3). |
+| `/imagenes`                                      | Contiene las capturas de pantalla relacionadas con las pruebas (si aplica). | — |
+| `/requisitos`                                    | Contiene la documentación de requisitos de las aplicaciones probadas. | — |
+| `/mapa_mental`                                   | Contiene una imagen del Mapa Mental de la función "Hacer pedido" de la Web. | — |
